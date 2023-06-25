@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+A development of my own personal portfolio, which will be updated with projects that are being implemented soon.
